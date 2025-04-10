@@ -7,15 +7,16 @@ We are looking for a motivated and curious **AI/Data Science Intern** to join ou
 
 ## **General Instructions**  
 1. **Fork** this repository to your GitHub account.  
-2. Complete the task described below and commit your progress regularly.  
-3. Submit your solution by replying to the original email with a link to your repository.  
-4. Use a **Jupyter Notebook** or a **Python script** with Markdown cells or comments to explain your approach.  
+2. Complete the task described below and commit your progress regularly.
+3. Use a **Jupyter Notebook** or a **Python script** with Markdown cells or comments to explain your approach. 
+4. Submit your solution by replying to the original email with a link to your repository.  
+ 
 
 ---
 
 ## **Objective**  
 You are given a dataset with approximately **200 samples**, each representing one finger. 
-(The dataset can be found in this repo: dataset.csv.)
+The dataset (`dataset.csv`) is included in this repository.
 
 For each finger:
 - There are **40 diameter measurements** (in millimeters), taken at regular intervals from the **tip of the finger down to its base** — imagine slicing the finger horizontally into 30 sections and measuring the width at each point.
@@ -52,6 +53,7 @@ Your task is to explore the dataset and build a model that can **predict the tru
 - Your final submission should include:
   - A Jupyter Notebook or Python script
   - Explanations using Markdown cells or comments
+- Submit your solution by replying to the original email with a link to your repository. 
 - Time recommendation: **4–5 hours max**
 
 ---
